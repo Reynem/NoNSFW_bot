@@ -1,0 +1,6 @@
+python-telegram-bot
+transformers
+torch
+Pillow
+python-dotenv
+accelerate
